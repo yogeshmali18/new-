@@ -16,7 +16,9 @@ I enjoy working with AWS, Docker, Kubernetes, Terraform, and CI/CD tools to deli
 
 📈 Monitoring & Observability
 
-🛠️ Tech Stack
+
+
+#🛠️ Tech Stack
 
 ☁️ Cloud
 
@@ -52,7 +54,7 @@ Grafana
 
 Linux
 
-🔁 CI/CD Pipeline Overview
+#🔁 CI/CD Pipeline Overview
 Code → Build → Test → Deploy → Monitor
  Git    Jenkins        AWS     Grafana
 
@@ -61,19 +63,14 @@ Code → Build → Test → Deploy → Monitor
 ✔ Continuous deployment
 ✔ Cloud-native monitoring
 
-📂 Projects
+#📂 Projects
 🔹 DevOps Portfolio Website
 
 Static portfolio hosted on GitHub Pages
 
-CI/CD using GitHub Actions
-
-Dockerized application
-
-AWS-ready architecture
 
 
-📜 Certifications
+#📜 Certifications
 
 🏅 AWS Well-Architected (2025)
 
@@ -82,7 +79,7 @@ AWS-ready architecture
 🏅 IBM Cloud Essentials – IBM
 
 
-📬 Contact Me
+#📬 Contact Me
 
 📧 Email: yogmali2131@gmail.com
 
