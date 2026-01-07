@@ -1,8 +1,8 @@
-🧑‍💻 Yogesh Mali – DevOps Engineer
+# 🧑‍💻 Yogesh Mali – DevOps Engineer
 
 Automating infrastructure • Building CI/CD pipelines • Cloud-native solutions
 
-📌 About Me
+# 📌 About Me
 
 I am a DevOps Engineer passionate about automating cloud infrastructure, building scalable CI/CD pipelines, and improving system reliability.
 
